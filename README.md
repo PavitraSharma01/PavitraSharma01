@@ -48,7 +48,7 @@ Hi, I'm **Pavitra Sharma**, a passionate and enthusiastic Computer Science and E
 
 ## 🚀 My Journey
 
-From building AI-driven solutions like credit card fraud detection systems to developing a chatbot for healthcare, my journey in tech has been fueled by curiosity and a drive to innovate. I actively participate in hackathons and constantly push myself to learn new technologies.
+From building AI-driven solutions like credit card fraud detection systems to developing a chatbot for healthcare, my journey in tech has been fueled by curiosity and a drive to innovate. I constantly push myself to learn new technologies.
 
 ---
 
